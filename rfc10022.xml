@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rfc xmlns:xi="http://www.w3.org/2001/XInclude" version="3" category="std" docName="draft-ietf-mailmaint-imap-uidbatches-22" number="10022" ipr="trust200902" obsoletes="" updates="" submissionType="IETF" xml:lang="en" sortRefs="true" symRefs="true" consensus="true" tocInclude="true" prepTime="2026-07-31T20:16:21" indexInclude="true" scripts="Common,Latin" tocDepth="3">
+<rfc xmlns:xi="http://www.w3.org/2001/XInclude" version="3" category="std" docName="draft-ietf-mailmaint-imap-uidbatches-22" number="10022" ipr="trust200902" obsoletes="" updates="" submissionType="IETF" xml:lang="en" sortRefs="true" symRefs="true" consensus="true" tocInclude="true" prepTime="2026-07-31T21:07:31" indexInclude="true" scripts="Common,Latin" tocDepth="3">
   <link href="https://datatracker.ietf.org/doc/draft-ietf-mailmaint-imap-uidbatches-22" rel="prev"/>
   <link href="https://dx.doi.org/10.17487/rfc10022" rel="alternate"/>
   <link href="urn:issn:2070-1721" rel="alternate"/>
   <front>
     <title>IMAP UIDBATCHES Extension</title>
     <seriesInfo name="RFC" value="10022" stream="IETF"/>
-    <author fullname="Daniel Eggert" initials="D" role="editor" surname="Eggert">
+    <author fullname="Daniel Eggert" initials="D." role="editor" surname="Eggert">
       <organization showOnFrontPage="true">Apple Inc</organization>
       <address>
         <postal>
@@ -641,7 +641,7 @@ C: A145 UID SEARCH RETURN () &lt;M&gt;,&lt;M-N&gt;,&lt;M-2*N&gt;,&lt;M-3*N&gt;,.
     </section>
     <section anchor="authors-addresses" numbered="false" removeInRFC="false" toc="include" pn="section-appendix.b">
       <name slugifiedName="name-authors-address">Author's Address</name>
-      <author fullname="Daniel Eggert" initials="D" role="editor" surname="Eggert">
+      <author fullname="Daniel Eggert" initials="D." role="editor" surname="Eggert">
         <organization showOnFrontPage="true">Apple Inc</organization>
         <address>
           <postal>

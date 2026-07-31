@@ -10,7 +10,7 @@
   <front>
     <title>IMAP UIDBATCHES Extension</title>
     <seriesInfo name="RFC" value="10022"/>
-    <author fullname="Daniel Eggert" initials="D" role="editor" surname="Eggert">
+    <author fullname="Daniel Eggert" initials="D." role="editor" surname="Eggert">
       <organization>Apple Inc</organization>
       <address>
         <postal>
